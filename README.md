@@ -4,6 +4,8 @@ Admin console for Otofarma. One administrator signs in, then manages application
 
 The interface is English. The Android companion and the API are separate projects. This console talks to the API only.
 
+The live console is http://159.69.22.142:8080.
+
 - Android: https://github.com/omidshz100/Otofarma-Telehealth-Android
 - Backend: https://github.com/omidshz100/Otofarma-Telehealth-Backend
 
